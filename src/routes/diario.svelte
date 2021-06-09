@@ -38,7 +38,7 @@ import Guilda from "./guilda.svelte";
 <main>
     <h1>Aventuras</h1>
     <div class="session">
-        <h2>Sessão 1</h2>
+        <h2>Sessão 1 - No Fundo do Poço</h2>
         <p>
             O grupo começa a aventura na taverna "O Unicórnio Voador", Vanessa acaba de acordar de um pesadelo recorrente, todos se reunem ali. Logo, Cora Bombarril, a ladina, chega com a notícia que as tropas saíram apra a floresta, para derrotar uma criatura parecida com um observador.
             Eles partem para a fazendo habitada pelo casal de anões Ingo e Helga von Shtronk. após uma conversa entre o bardo, a clériga, o guardião e os dois anões, o grupo ganha a chave para o posso da propriedade, onde o suposto tesouro estaria escondido.			
@@ -55,7 +55,7 @@ import Guilda from "./guilda.svelte";
         </p>        
     </div>
     <div class="session">
-        <h2>Sessão 2</h2>
+        <h2>Sessão 2 - Dois Coelhos</h2>
         <p>
             Alatreon deixa os guardas escaparem secretamente, enquanto isso Belkior contacta seu patrono Titrus, enquanto Elanor ouve tudo. Titrus pede para ele salvar o vilarejo de orcs a qualquer custo, informando que uma arma poderosa se encontra num templo próximo. O grupo decide comprar uma casa nova para Helga e partem no dia seguinte para ajudar os orcs. Antes de partir compram dois cavalos e um pônei na vila, depois partem, assim que anoitece, já na floresta, encontram rastros humanos misturados com rastros pequenos, ao seguir os rastros (que podem ser dos guardas fugitivos), descobrem 4 kobolds e um filhote de dragão negro chamado Alih, após uma confusão envolvendo Likha e Vanessah o grupo consegue se unir novamente sem grandes eventos, ainda avisando os kobolds do risco que eles correm com o vindouro ataque dos humanos.
         </p>
@@ -77,7 +77,7 @@ import Guilda from "./guilda.svelte";
         </p>
     </div>
     <div class="session">
-        <h2>Sessão 3</h2>
+        <h2>Sessão 3 - A Hora da Batalha</h2>
         <p>
             Antes da batalha há muito discussão sobre quem deverá usar o capacete durante a batalha, Lycah usa o capacete para sequestrar o dragão Bebê (que agora vive em uma vila junto com os kobolds que enriqueceram na piramide) e sua "mãe" kobold. O resto do grupo discorda de mante-los para a batalha e os acabam sendo libertados.
         </p>  
@@ -91,7 +91,7 @@ import Guilda from "./guilda.svelte";
         </p>        
     </div>
     <div class="session">
-        <h2>Sessão 4</h2>
+        <h2>Sessão 4 - O Paladino</h2>
         <p>
             Depois da batalha, Dinho descobre que a ampulheta pode ser usada para se comunicar com os mortos, por um minuto. Iago começa a agir estranho quando sem o capacete, dizendo que o corpo do Beholder é seu corpo verdadeiro, começando um debate ético entre os integrantes do grupo de heróis. 
         </p>  
@@ -100,7 +100,7 @@ import Guilda from "./guilda.svelte";
         </p>
     </div>
     <div class="session">
-        <h2>Sessão 5</h2>
+        <h2>Sessão 5 - A Loba e o Dragão</h2>
         <p>
             Uma loba e um homem dragão chegam na vila, ele diz que estava na floresta para fazer uma missão, e recuperar um bebê dragão que está sumido, quando a loba a encontrou e o convenceu a seguir ela, mesmo sem falar uma palavra.
             As pessoas da vila acham uma forma não verbal de se comunicar com ela e vão a seguindo rapidamente pela floresta. Enquanto isso aocntece, ninguém é capaz de utilizar magia.
